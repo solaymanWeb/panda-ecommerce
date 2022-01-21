@@ -1,0 +1,71 @@
+*{margin:0; padding:0;}
+body{
+
+}
+.single-item{
+    background-color: #FCEAE8;
+}
+.price-btn{
+    color: #FF438D;
+
+}
+.buy-btn{
+    background-color: #FF438D;
+    color: #ffffff;
+    width: 150px;
+    border-radius: 8px;
+}
+.buy-btn i {
+    font-size: 10px;
+}
+.all-categorige{
+    padding-top: 50px ;
+    padding-bottom: 100px;
+}
+.watch,
+.bag,
+.shoes{
+    color: #ffffff;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.watch{
+    background-color: #FFA500;
+}
+.bag{
+    background-color: #DA70D6;
+}
+.shoes{
+    background-color: #0000FF;
+}
+.categories{
+
+}
+
+.categories img {
+    width: 100px;
+}
+.single-card{
+    box-shadow: 7px 14px 23px -20px black;
+    
+}
+.shoes-cart{
+    padding-bottom: 100px;
+}
+.subscribe{
+    height: 300px;
+    background-color: #FCEAE8;
+    margin-bottom: 100px;
+
+}
+.subscribe [type=submit]{
+    background-color: #FF438D;
+    border: none;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    color: #ffffff;
+}
